@@ -4,7 +4,7 @@ Tags: wordpres, plugin, counter.js, counterup
 Requires at least: 3.5
 Tested up to: 4.2.2
 Stable tag: 1.0
-License: GPLv2 or later
+License: The MIT License (MIT)
 
 Countup JS allows you to quickly create animations that display numerical data in a more interesting way on your wp site.
 

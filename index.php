@@ -7,6 +7,7 @@ Description: Easily incorporate countup.js into your wordpress site through an e
 Author: Barry Ross
 Version: 1.0
 Author URI: http://www.4d-media.com/plugins
+License: The MIT License (MIT)
 */
 
 /* ------------------------------------------------------------------------ *
