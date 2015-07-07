@@ -5,7 +5,7 @@ Plugin Name: Countup JS
 Plugin URI:
 Description: Easily incorporate countup.js into your wordpress site through an easy to use shortcode.  CountUp.js is a dependency-free, lightweight JavaScript "class" that can be used to quickly create animations that display numerical data in a more interesting way.  Based off of https://inorganik.github.io/countUp.js/
 Author: Barry Ross
-Version: 1.0
+Version: 1.2
 Author URI: http://www.4d-media.com/plugins
 License: The MIT License (MIT)
 */
