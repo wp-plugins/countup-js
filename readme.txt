@@ -46,7 +46,9 @@ The shortcode accepts the following arguments
 
 == Screenshots ==
 
-
+1. Example of the output on a page
+2. Example short code 
+3. Additional options
 == Changelog ==
 
 
